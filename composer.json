@@ -1,0 +1,17 @@
+{
+    "name": "bamba/projet221",
+    "autoload": {
+        "psr-4": {
+            "Bamba\\Projet221\\": "src/",
+            "Core\\": "core",
+            "App\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dimkha",
+            "email": "dimkha516@gmail.com"
+        }
+    ],
+    "require": {}
+}
